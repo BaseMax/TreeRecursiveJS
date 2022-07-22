@@ -10,7 +10,7 @@ $ node TreeRecursive.js
 
 **Input:**
 
-```
+```js
 const testList = [ 
   { id: 1, name: "base", parentId: null }, 
   { id: 2, name: "erfan", parentId: 1 }, 
@@ -25,7 +25,7 @@ const testList = [
 
 **Output:**
 
-```
+```js
 const newList = [ 
   { 
     id: 1, 
