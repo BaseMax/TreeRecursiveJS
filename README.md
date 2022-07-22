@@ -4,7 +4,7 @@
 
 ```sh
 $ node TreeRecursive.js
-``
+```
 
 ## Example
 
