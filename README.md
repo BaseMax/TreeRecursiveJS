@@ -1,5 +1,7 @@
 # Tree Recursive JS
 
+Tree Recursive (Iterative) JavaScript; Convert a list of objects to a **tree** structure.
+
 ## Using
 
 ```sh
@@ -56,3 +58,5 @@ const newList = [
   }, 
 ];
 ```
+
+© Copyright 2022, Max Base
