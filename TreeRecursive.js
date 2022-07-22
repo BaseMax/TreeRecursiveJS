@@ -1,4 +1,9 @@
-// https://github.com/BaseMax/TreeRecursiveJS
+/*
+ * Name: Tree Recursive (Iterative) JavaScript
+ * Description: Tree Recursive (Iterative) JavaScript; Convert a list of objects to a tree structure.
+ * Author: Max Base
+ * Repository: https://github.com/BaseMax/TreeRecursiveJS
+ */
 
 // Function
 const TreeRecursive1 = (list, parent_id = null) => {
