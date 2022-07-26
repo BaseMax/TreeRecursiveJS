@@ -2,6 +2,8 @@
 
 Tree Recursive (Iterative) JavaScript; Convert a list of objects to a **tree** structure.
 
+I implemented the algorithm in 3 different ways, so you can see easiest readable solution or lovest way or shortest one.
+
 ## Using
 
 ```sh
