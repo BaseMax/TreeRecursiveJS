@@ -6,7 +6,7 @@
  * Repository: https://github.com/BaseMax/TreeRecursiveJS
  */
 
-// Function
+// Function(s)
 const TreeRecursive1 = (list, parent_id = null) => {
   const tree = list.filter(item => item.parentId === parent_id);
   tree.forEach(item => {
